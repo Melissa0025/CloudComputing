@@ -2,7 +2,7 @@ import axios from "axios";
 
 //const API_BASE_URL = "http://localhost:5000/api/employees";
 
-const API_URL = "https://employee-directory-backend.azurewebsites.net/api";
+const API_BASE_URL = "https://employee-directory-backend.azurewebsites.net/api";
 
 
 // Get all employees with filters, search, pagination, and sorting
