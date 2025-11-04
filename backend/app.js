@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 import bodyParser from "body-parser";
-import employeeRoutes from "./routes/employeeRoutes.js";
+import employeeRoutes from "./src/routes/employeeRoutes.js";
 
 const app = express();
 
